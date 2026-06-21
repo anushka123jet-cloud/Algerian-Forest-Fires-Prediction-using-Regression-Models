@@ -163,8 +163,7 @@ Algerian-Forest-Fires-Prediction/
 
 ## 👩‍💻 Author
 
-### Anushka Verma
-MCA Student
+Anushka Verma MCA Student | Aspiring Data Scientist
 Harcourt Butler Technical University (HBTU), Kanpur
 
 ---
