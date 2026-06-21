@@ -121,16 +121,17 @@ Performance comparison was conducted to determine the most effective regression 
 Algerian-Forest-Fires-Prediction/
 │
 ├── Dataset/
-│   └── Algerian_forest_fires_dataset.csv
+│   ├── Algerian_forest_fires_dataset.csv
+│   └── Algerian_forest_fires_cleaned.csv
 │
 ├── Notebooks/
-│   └── Algerian_Forest_Fires.ipynb
+│   ├── Data_Cleaning_EDA.ipynb
+│   └── Model_Training.ipynb
 │
-├── Images/
-│   └── EDA_Plots
+├── Models/
+│   └── ridge_regression.pkl
 │
 ├── README.md
-│
 └── requirements.txt
 
 
